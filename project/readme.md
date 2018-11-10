@@ -1,0 +1,2 @@
+- The `profiles.csv` was removed, since it was too big too upload (*"Sorry, your project is too big. Please upload a project less than 25000 KB"*)
+- The `.py` files containing the implementation of the different classifications and regressions approaches are in the `guesses/` directory (one file per question).
